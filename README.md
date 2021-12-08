@@ -55,7 +55,7 @@ Checks log: 12/8/2021<br>
 Download page link: https://wearedevs.net/d/Lagswitch<br>
 
 ## Note
-All of the exploits in the list are reverse engineered and some of them are highly obfuscated so I was not be able to deobfuscate there code's fully Including the DLL's(C++), so even though It's safe to use, use it at your own risk excluding the one's that is 100% though because there code are 100% readable If you decompile them.
+First off, credit to bl4k3#6730 for finding me a lot of Roblox exploits and all of the exploits in the list are reverse engineered and some of them are highly obfuscated so I was not be able to deobfuscate there code's fully Including the DLL's(C++), so even though It's safe to use, use it at your own risk excluding the one's that is 100% though because there code are 100% readable If you decompile them.
 
 ## License
 MIT © I2rys
